@@ -1,0 +1,2 @@
+create table emp(eno integer(3),ename char,dept varchar(10));
+
